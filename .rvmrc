@@ -1,1 +1,2 @@
 rvm use 1.9.3@resque_mailhopper
+export PATH="./.bin:$PATH"
